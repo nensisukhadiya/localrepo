@@ -1,1 +1,1 @@
-//sample javascript file
+//this is a javascript file
